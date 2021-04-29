@@ -1,0 +1,14 @@
+{
+    "name" : "Covid19Bilgi",
+    "version" : "1.0",
+    "description": "Gündelik covid-19 bilgileri",
+    "manifest_version" : 2,
+    "browser_action" : {
+        "default_title": "Covid19Bilgi",
+        "default_popup": "index.html"
+    },
+    "permissions": ["https://covid19.saglik.gov.tr/*"],
+    "icons" : {
+        "16" : "indir.png"
+    }
+}

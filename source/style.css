@@ -1,0 +1,9 @@
+body {
+    background-color: honeydew;
+    font-family: 'Lato', sans-serif;
+    background-size: auto;
+    width: 250px;
+}
+.value{
+    color: rgb(0, 0, 0);
+}
